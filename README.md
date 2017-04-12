@@ -1,10 +1,4 @@
 # search-google
-
--------------------------------------------------------
-Created by Gautam Sreekumar
-Sophomore, Department of Electrical Engineering,
-Indian Institute of Technology Madras, Chennai
-India
 -------------------------------------------------------
 Python script to Google search from Ubuntu command line
 -------------------------------------------------------
